@@ -1,0 +1,2 @@
+# MeiBot
+NeptuneAkairo Emote Bot.
